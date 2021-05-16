@@ -22,15 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ed0b033-2e22-4491-bb71-668d5cfee5a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ios/GoogleService-Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/datasources/firebase_datasource.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/datasources/firebase_datasource.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/firebase_test_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/firebase_test_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/notification_examples_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/notification_examples_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-    </list>
+    <list default="true" id="5ed0b033-2e22-4491-bb71-668d5cfee5a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +84,22 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="505" y="159" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1621173274149" />
+    <state width="1238" height="233" key="GridCell.Tab.0.bottom" timestamp="1621174606180">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1621174606180" />
+    <state width="1238" height="233" key="GridCell.Tab.0.center" timestamp="1621174606178">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1621174606178" />
+    <state width="1238" height="233" key="GridCell.Tab.0.left" timestamp="1621174606177">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1621174606177" />
+    <state width="1238" height="233" key="GridCell.Tab.0.right" timestamp="1621174606179">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1621174606179" />
     <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1621173646355">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
