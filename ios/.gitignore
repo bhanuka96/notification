@@ -10,7 +10,7 @@
 **/DerivedData/
 Icon?
 **/Pods/
-*.plist
+ios/GoogleService-Info.plist
 **/.symlinks/
 profile
 xcuserdata
